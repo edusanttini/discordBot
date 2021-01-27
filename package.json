@@ -1,0 +1,14 @@
+{
+  "name": "fastbuyer",
+  "version": "1.0.0",
+  "description": "the fasttest buyer alive (or not)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Santini",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
