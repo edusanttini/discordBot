@@ -1,4 +1,4 @@
 config.json
-**.sqlite
+*.sqlite
 .vs/
-
+**/.vs
